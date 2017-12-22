@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Portfolio</title>
-    <link>/publication/</link>
+    <link>https://stevenlabarge.github.io/publication/</link>
     <description>Recent content in Publications on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
